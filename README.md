@@ -92,8 +92,8 @@ All services are **containerized with Docker** and orchestrated using **AWS ECS*
 
 **Manjay Verma**  
 Full Stack / Backend / AI Systems Developer  
-🔗 GitHub: https://github.com/your-username  
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+🔗 GitHub: https://github.com/manjaycoder 
+🔗 LinkedIn: https://linkedin.com/in/manjay-verma
 
 
 If you like the project, **leave a star ⭐** on GitHub — it helps a lot!
